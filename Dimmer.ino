@@ -1,3 +1,17 @@
+/*
+ * Title: Dimmer
+ * Written by Shiva Teja (B.S.T)
+ * GitHub Link: https://github.com/EpicShiv/Dimmer
+ * 
+ * Note:
+ * Some of the code is used or derived from opensource community.
+ * 
+ * GNU GENERAL PUBLIC LICENSE
+ * Version 3, 29 June 2007
+ * Copyright (c) 2021, SHIVA TEJA
+ * All rights reserved.
+ */
+ 
 // While uploading code define "DEBUG" to "0" and for debugging change it to "1".
 #define DEBUG 1
 #if DEBUG
